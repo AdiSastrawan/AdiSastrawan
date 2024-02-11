@@ -1,4 +1,4 @@
-![image](https://github.com/AdiSastrawan/AdiSastrawan/assets/93625293/4bbd8a8a-38b5-4353-aea9-805be1ad82fe)<h1 align="center">Hi 👋, I'm Adi Sastrawan</h1>
+<h1 align="center">Hi 👋, I'm Adi Sastrawan</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at [adisastrawan.netlify.app](adisastrawan.netlify.app)
