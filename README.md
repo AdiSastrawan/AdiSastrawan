@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adi Sastrawan</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [adisastrawan.netlify.app](adisastrawan.netlify.app)
+- 👨‍💻 All of my projects are available at [adisastrawan.netlify.app](https;//adisastrawan.netlify.app)
 
 - 📫 How to reach me **adisastrawan110703@gmail.com**
 
